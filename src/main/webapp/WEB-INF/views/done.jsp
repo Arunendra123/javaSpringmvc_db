@@ -8,6 +8,8 @@
 </head>
 <body>
 <h3>User registered successfully!!</h3>
+<% %>
+
 <form action="form">
    <input type="submit" value="register"></input>
 </form>
